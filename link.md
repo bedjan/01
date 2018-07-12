@@ -1,6 +1,6 @@
 # Gitlab odkazy top
 
-(Gitlab permalink)(https://gitlab.com/bedjan/01/blob/2037cb3e3dc6ddc8c6e2fd44217b50937ed8701e/link.md)
+[Gitlab permalink](https://gitlab.com/bedjan/01/blob/2037cb3e3dc6ddc8c6e2fd44217b50937ed8701e/link.md)
 
 # Top
 
